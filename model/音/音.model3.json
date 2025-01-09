@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "音.moc3",
 		"Textures": [
-			"texture/texture_00.png"
+			"texture/texture_00.webq"
 		],
 		"Physics": "音.physics3.json",
 		"DisplayInfo": "音.cdi3.json"
